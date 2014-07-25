@@ -7,7 +7,7 @@
 *To make an impact in my community using my enthusiasm, creativity and organizing skills.*
 
 ##Employment History:
-Legal Assistant at Cascadia Disability Law
+####Legal Assistant at Cascadia Disability Law
 *January 2014 to April 2014* - Maintaining and organizing files, conducting legal research, drafting documents, and managing office work flow.
 
 ####Product Support Representative with Kroger
