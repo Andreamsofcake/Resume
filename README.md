@@ -10,13 +10,13 @@
 Legal Assistant at Cascadia Disability Law
 *January 2014 to April 2014* - Maintaining and organizing files, conducting legal research, drafting documents, and managing office work flow.
 
-##Product Support Representative with Kroger
+####Product Support Representative with Kroger
 *December 2012 to November 2013* – Kroger. Main duties: Taking incoming calls and emails regarding brand name products, managing documentation, conducting research and resolving concerns. 
 
-##Quality Analyst for Xerox
+####Quality Analyst for Xerox
 *May 2011 to October 2012*– Main Duties: Accessing quality standards for incoming customer care calls. Analyzing and documenting trends for the call center. Assisting in training and coaching to promote quality standards.
 
-##Patient Registrar at Kapiolani Medical Center for Women and Children. 
+####Patient Registrar at Kapiolani Medical Center for Women and Children. 
 *July 2006 to September 2010*- Main Duties: Using Epic medical record system to input patient information for inpatient and outpatient procedures. Compiling consent documents and insurance records for hospital.
   
 **Computers:** Microsoft suite, Google Docs, Medical records and Computer Aided Drafting, Ruby familiarity . Troubleshooting basic computer and mobile device issues. Typing 60 wpm. 
