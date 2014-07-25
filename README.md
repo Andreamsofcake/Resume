@@ -18,7 +18,8 @@
 
 ####Patient Registrar at Kapiolani Medical Center for Women and Children. 
 *July 2006 to September 2010*- Main Duties: Using Epic medical record system to input patient information for inpatient and outpatient procedures. Compiling consent documents and insurance records for hospital.
-  
+
+##Skills  
 **Computers:** Microsoft suite, Google Docs, Medical records and Computer Aided Drafting, Ruby familiarity . Troubleshooting basic computer and mobile device issues. Typing 60 wpm. 
    
 **Education:** Curtently in the PCS Web Dev Primer.	PCC online class in project management. Graduated from the University of Utah in Summer 2004 with a BFA in Theater Design. Graduated with Honors 1999 from West High School. 
