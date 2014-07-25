@@ -1,5 +1,6 @@
 #Andrea Moulding
 - Mobile: 808-781-5475
+- Portland, OR
 - andrea.moulding@gmail.com
 
 ##Job Objectives:
