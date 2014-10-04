@@ -11,7 +11,7 @@
 ####Legal Assistant at Cascadia Disability Law
 *January 2014 to April 2014* - Maintaining and organizing files, conducting legal research, drafting documents, and managing office work flow.
 
-####Product Support Representative with Kroger
+####Product Support Specialist with Kroger
 *December 2012 to November 2013* – Kroger. Main duties: Managing queries regarding products, managing product documentation, conducting research and resolving concerns regarding products. 
 
 ####Quality Analyst for Xerox
