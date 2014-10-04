@@ -23,6 +23,6 @@
 ##Skills  
 **Computers:** HTML, CSS, Javascript (Node and JQuerry), Ruby, Microsoft suite, Google Docs, Epic (Medical Records System) and Computer Aided Drafting. Troubleshooting basic computer and mobile device issues. Typing 60 wpm. 
    
-**Education:** Curtently at Portland Code School.	Project management. Graduated from the University of Utah in Summer 2004 with a BFA in Theater Design. Graduated with Honors 1999 from West High School. 
+**Education:** Curtently at Portland Code School.	Project management at PCC. Graduated from the University of Utah in Summer 2004 with a BFA in Theater Design. Graduated with Honors 1999 from West High School. 
 
 I also enjoy, in my spare time Game Design, Hiking, Cooking and Reading.	 
