@@ -5,7 +5,7 @@
 
 ##Job Objectives:
 
-*To make an impact in my community using my enthusiasm, creativity and programing skills.*
+*To make an impact in my community using my enthusiasm, creativity and programming skills.*
 
 ##Employment History:
 ####Legal Assistant at Cascadia Disability Law
